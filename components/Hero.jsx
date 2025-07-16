@@ -34,10 +34,10 @@ const Hero = () => {
 
 
             <div className="w-full  md:p-12 lg:p-20 flex flex-col items-center justify-center md:items-start md:justify-start h-full absolute top-0 left-0 z-20 text-center md:text-left">
-                <h1 className="bg-gradient-to-b md:leading-tight moderniz font-extrabold text-4xl sm:text-2xl md:text-5xl lg:text-8xl  from-[#4E4E4E] via-white to-[#4E4E4E] bg-clip-text text-transparent   md:-mb-8">
+                <h1 className="bg-gradient-to-b md:leading-tight moderniz font-extrabold text-4xl sm:text-2xl md:text-5xl lg:text-8xl  from-[#4E4E4E] via-white to-[#4E4E4E] bg-clip-text text-transparent   md:-mb-6">
                     GRAPHIC
                 </h1>
-                <h1 className="bg-gradient-to-b md:leading-tightmoderniz font-extrabold text-4xl  sm:text-2xl md:text-5xl lg:text-8xl from-[#4E4E4E] via-white to-[#4E4E4E] bg-clip-text text-transparent   md:-mb-8">
+                <h1 className="bg-gradient-to-b md:leading-tightmoderniz font-extrabold text-4xl  sm:text-2xl md:text-5xl lg:text-8xl from-[#4E4E4E] via-white to-[#4E4E4E] bg-clip-text text-transparent   md:-mb-6">
                     DESIGN
                 </h1>
                 <h1 className="bg-gradient-to-b md:leading-tight moderniz font-extrabold text-4xl  sm:text-2xl md:text-5xl lg:text-8xl from-[#4E4E4E] via-white to-[#4E4E4E] bg-clip-text text-transparent  ">
