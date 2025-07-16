@@ -45,7 +45,7 @@ const Hero = () => {
                 </h1>
                 <p className='text-white sf-pro font-bold text-md md:text-2xl'>Branding · Graphics · Typography · Layout</p>
             </div>
-            <div className='absolute bottom-0 left-0 w-full h-20  bg-black/70 z-30'>
+            <div className='absolute bottom-0 left-0 w-full h-20   z-30'>
                 <div className='flex flex-row items-center justify-between h-full px-8'>
                     <p className='text-white md:text-2xl sf-pro'>JEET MANE</p>
                     <p className='text-white md:text-2xl sf-pro'>2025</p>
